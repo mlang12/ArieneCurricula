@@ -6,4 +6,7 @@ This website was designed to answer the question "what is the best way to learn 
 ### Tech Notes
 Built with HTML, CSS, JavaScript, jQuery, SASS, MySQL, Sequelize, PassportJS, Bootstrap and other tech.
 
-This is my fork of a project developed by team of 3. Little has been changed from the original.
+### Live Deployment
+A live version can be found deployed at https://curricula.mindbrier.com
+
+This is my fork of a [project](https://github.com/arienellefsen/ArieneCurricula) developed by team of 3. Little has been changed from the original.
